@@ -15,5 +15,9 @@ img{
 }
 
 body{
-    background-color: #fff;
+    background-color: f8f8f8;
+}
+
+li{
+    list-style-type: none;
 }

@@ -49,3 +49,20 @@ li{
 .char{
     list-style-image: url(/img/book-img.png);
 }
+
+.pictures{
+    border: 5px solid burlywood;
+}
+
+input{
+    width: 350px;
+    height: 30px;
+    font-size: 20px;
+    color: slategray;
+}
+
+.menu > li{
+    color: black;
+    font-style:italic;
+    font-size: 15px;
+}
